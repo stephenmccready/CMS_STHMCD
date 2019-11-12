@@ -19,7 +19,7 @@ with the exclusion of substance abuse diagnoses/procedures.</p>
 <p>The extracted data will be put on three separate files (i.e., one for Part A, Part B, and Part D services, respectively).  
 The three files will be transmitted directly to the Medicare-Medicaid Plans monthly.  Files will be generated only if new 
 passive / opt-in enrollments were submitted in the previous month.  Otherwise no files will be transmitted.   Please note that 
-this is a flat file, and includes key elements for each claim/PDE (see last three attachments for details).
+this is a flat file, and includes key elements for each claim/PDE.
 Below is an example of the file naming convention:</p>
 <ul>
 <li>P.RHxxxx.STHMCD.PTA.Dyymmdd.Thhmmsst</li>

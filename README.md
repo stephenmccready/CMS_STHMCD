@@ -24,3 +24,6 @@ Below is an example of the file naming convention:
 P.RHxxxx.STHMCD.PTA.Dyymmdd.Thhmmsst 
 P.RHxxxx.STHMCD.PTB.Dyymmdd.Thhmmsst   
 P.RHxxxx.STHMCD.PTD.Dyymmdd.Thhmmsst 
+
+<b>concatAYear.py</b> concatenates the Part A, Part B and Part D monthly files for a specified year into 3 'annual' files
+
